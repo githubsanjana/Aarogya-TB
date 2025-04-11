@@ -1,35 +1,46 @@
-# 🫁 Aarogya-TB
+🫁 Aarogya-TB
+A Tuberculosis Awareness and Care Platform
+🎯 Purpose
+Aarogya-TB is a comprehensive web platform designed to:
 
-Aarogya-TB is a web-based Tuberculosis (TB) assistant and care platform designed to help both doctors and patients. It aims to improve early detection of TB risk and provide accessible educational resources for patients — all in a simple and interactive format.
+Simplify TB awareness and education through accessible resources.
 
----
+Support early-stage TB risk detection using patient-reported data.
 
-## 📌 Features
+Empower patients with self-care tools and verified medical guidance.
 
-### 🔹 Doctor Dashboard
-- Doctors can input patient details like:
-  - Smoking habits
-  - Sputum test results
-  - Family history, etc.
-- Based on these inputs, the system analyzes and displays the **risk factor** for TB instantly.
+📌 Key Features
+👨‍⚕️ Doctor Dashboard
+Risk Assessment Tool: Input patient data (symptoms, sputum tests, smoking history, etc.) to generate instant TB risk analysis.
 
-### 🔹 Patient Dashboard
-- Patients get access to:
-  - A **chatbot assistant** for quick queries and guidance.
-  - A **TB Education Portal** to download guidelines related to:
-    - Prevention
-    - Treatment
-    - Patient care and lifestyle support
+Decision Support: Evidence-based recommendations for further diagnostics/treatment.
 
----
+👩‍💻 Patient Dashboard
+24/7 Chatbot Assistant: Answers TB-related queries in simple language.
 
-## 🚀 How to Use
+Education Portal: Downloadable guides on:
 
- Clone the Repository
-```bash
-git clone https://github.com/githubsanjana/Aarogya-TB.git
+Prevention strategies
 
+Treatment protocols
 
+Nutritional/lifestyle support
 
+🚀 Installation
+bash
+Copy
+git clone https://github.com/githubsanjana/Aarogya-TB.git  
 
+🌟 Future Roadmap
+Feature	Status	Description
+User Auth System	Planned	Secure login for doctors/patients.
+ML Risk Model	In Progress	AI-driven personalized risk predictions.
+Multilingual UI	Proposed	Hindi, Bengali, and other regional support.
 
+🛠️ Tech Stack
+Frontend: HTML/CSS, JavaScript
+
+Backend: Future integration planned
+
+Why This Matters
+Early TB detection can reduce transmission rates by 50% (WHO, 2023). This project bridges gaps in healthcare accessibility.
