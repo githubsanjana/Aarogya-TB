@@ -29,21 +29,5 @@ Aarogya-TB is a web-based Tuberculosis (TB) assistant and care platform designed
 ```bash
 git clone https://github.com/githubsanjana/Aarogya-TB.git
 
-🌱 Future Scope
-✅ Backend Integration to store and retrieve patient data securely
 
-🧠 Machine Learning Model to provide more accurate, data-driven risk prediction
-
-🌐 Multilingual Support for regional language access
-
-📊 Progress Tracker for patients to log symptoms and monitor treatment
-
-🎯 Purpose
-This project was developed as a concept to:
-
-Simplify TB awareness and education
-
-Support early-stage TB risk detection
-
-Provide patients with easy access to helpful resources
 
