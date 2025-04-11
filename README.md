@@ -33,10 +33,13 @@ Empower patients with self-care tools and verified medical guidance.
 
 ---
 ## 🌟 Future Roadmap
-Feature	Status	Description
-User Auth System	Planned	Secure login for doctors/patients.
-ML Risk Model	In Progress	AI-driven personalized risk predictions.
-Multilingual UI	Proposed	Hindi, Bengali, and other regional support.
+We’re continuously working to enhance Aarogya-TB with these planned improvements:
+
+User Authentication System (Planned): A secure login portal for doctors and patients to access personalized dashboards and maintain medical records.
+
+ML-Powered Risk Model (In Development): An advanced AI algorithm that analyzes patient data to provide more accurate, personalized TB risk assessments.
+
+Multilingual Interface (Proposed): Support for regional languages including Hindi and Bengali to make the platform accessible to diverse populations across India.
 
 ---
 
