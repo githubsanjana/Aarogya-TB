@@ -25,9 +25,11 @@ Aarogya-TB is a web-based Tuberculosis (TB) assistant and care platform designed
 
 ## 🚀 How to Use
 
-### Step 1: Clone the Repository
+ Clone the Repository
 ```bash
 git clone https://github.com/githubsanjana/Aarogya-TB.git
+
+
 
 
 
