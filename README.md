@@ -13,6 +13,17 @@ Support early-stage TB risk detection using patient-reported data.
 Empower patients with self-care tools and verified medical guidance.
 
 ---
+## 👋 Welcome to My Homepage
+![homepage](https://github.com/user-attachments/assets/82f985d3-fee0-4a82-8fa6-a470baca4a1f)
+
+![homepage1](https://github.com/user-attachments/assets/66ee0b17-27c4-459c-9cd3-40a589b3d681)
+
+
+
+
+
+
+---
 
 ## 📌 Features
 
