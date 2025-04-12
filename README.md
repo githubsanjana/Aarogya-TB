@@ -24,6 +24,15 @@ Empower patients with self-care tools and verified medical guidance.
 
 
 ---
+## 🩺 Doctor Dashboard
+![doctor_dashboard](https://github.com/user-attachments/assets/cddd6b28-fbd3-45a5-be15-0907053deaac)
+![doctor2](https://github.com/user-attachments/assets/1e50c455-91db-4fe4-9c9d-1f0b5af6d277)
+
+
+
+
+
+---
 
 ## 📌 Features
 
