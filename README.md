@@ -33,6 +33,14 @@ Empower patients with self-care tools and verified medical guidance.
 
 
 ---
+## 🧑‍💼 Patient Dashboard
+![patient](https://github.com/user-attachments/assets/419e227f-1af1-4f0f-b456-16e73a3b494e)
+![tb_education_resource](https://github.com/user-attachments/assets/821b7939-05c3-48e2-9ff1-ec4e6f462af3)
+
+
+
+
+---
 
 ## 📌 Features
 
