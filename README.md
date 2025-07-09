@@ -1,4 +1,4 @@
-# 🫁 Aarogya-TB
+# 🫁 Aarogya-TB :
 
 **Aarogya-TB** is a web-based Tuberculosis (TB) assistant and care platform designed to help both doctors and patients. It aims to improve early detection of TB risk and provide accessible educational resources for patients — all in a simple and interactive format.
 
